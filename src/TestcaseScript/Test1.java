@@ -20,9 +20,7 @@ public class Test1 extends Generic{
 	      Thread.sleep(3000);
 	      lp.setpassword("simmigangwar");
 	      Thread.sleep(3000);
-	      Assert.fail();
-	      /*lp.clicklogin();
-	      Thread.sleep(5000);*/
+	     
 	      
 	    
 	      
