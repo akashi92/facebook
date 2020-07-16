@@ -31,4 +31,8 @@ public class LoginPage {
 		  login.click();
 	}
 
+	public void clicklogin()
+	{
+		  login.click();
+	}
 }
