@@ -18,8 +18,7 @@ public class Test1 extends Generic{
 	      LoginPage lp= new LoginPage(driver);
 	      lp.setemail("akankshagangwar@yahoo.in");
 	      Thread.sleep(3000);
-	      lp.setpassword("simmigangwar");
-	      Thread.sleep(3000);
+	     
 	     
 	      
 	    
